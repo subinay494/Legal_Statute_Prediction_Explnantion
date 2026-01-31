@@ -1,4 +1,4 @@
-# Legal_Statute_Prediction_Explnantion (Review in EACL 2026)
+# Legal_Statute_Prediction_Explnantion (Review in ICAIL 2026)
 The task of Legal Statute Prediction (LSP) focuses on identifying legal statutes that are relevant to a given description of facts or evidence within legal documents. Existing methods lack a focus on the underlying reasoning behind these predictions.  Addressing this research gap, we curate $\texttt{PROSLEX}$ (**PR**ediction **O**f **S**tatute and **LE**gal e**X**planation), the largest legal expert-annotated dataset for legal statute prediction with explanation in the Indian context, comprising 1623 documents. </br>
 # Overall Workflow:
 ![Image](https://github.com/user-attachments/assets/920868fd-cbb0-4c00-b909-a921be4ffb32) 
